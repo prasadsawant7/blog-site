@@ -1,0 +1,5 @@
+.blog:hover {
+    box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.38);
+    transition: 1 ease-in-out;
+    transition-delay: 5ms;
+}
